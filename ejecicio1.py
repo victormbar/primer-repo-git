@@ -1,4 +1,4 @@
 nomrbe = "Victor"
 apellido = "Barroeta"
-
-print(f"Hola soy {nomrbe} {apellido} alumno de Programación 1")
+materia = "Programación 1"
+print(f"Hola soy {nomrbe} {apellido} alumno de {materia}")
